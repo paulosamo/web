@@ -1,0 +1,19 @@
+body{
+    background-color: dimgray;
+    text-align: left;
+    padding-left: 30px;
+    background-image: url("jioni/images/istockphoto-157282123-612x612.jpg");
+
+
+
+}
+p{
+    color: turquoise;
+}
+b{
+    color: mediumblue;
+    border: 6px dotted yellow;
+    border-radius: 30px;
+    width: 9%;
+    height: 5%;
+}

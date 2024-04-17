@@ -1,0 +1,14 @@
+.kk{
+    color: blue;
+    background-color: bisque;
+    border-radius: 9px;
+}
+body{
+    color: lime;
+    background-color: gray;
+}
+style{
+    image-orientation: flip;
+
+}
+

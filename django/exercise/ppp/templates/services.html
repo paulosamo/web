@@ -1,0 +1,30 @@
+{% load static %}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="{% static 'styles.css' %}">
+</head>
+<body>
+<a href="/">home</a>
+<a href="/about/">about</a>
+<a href="/contact/">contact</a>
+<a href="/services/">services</a>
+
+<br>
+
+{% block body %}
+    <h2>services</h2>
+<p>these are services offered</p>
+<p>h</p>
+    <p>d</p>
+
+
+{% endblock %}
+
+
+</body>
+</html>

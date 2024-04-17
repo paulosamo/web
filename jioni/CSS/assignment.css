@@ -1,0 +1,21 @@
+iframe{
+-webkit-filter: grayscale();
+}
+body{
+    background-color: black;
+}
+.a{
+        width: 50%;
+        float: left;
+    }
+    .b{
+        width: 50%;
+        float: right;
+    }
+    h2{
+        color: #EEEEEE;
+    }
+
+    .s{
+        border-radius: 30px;
+    }

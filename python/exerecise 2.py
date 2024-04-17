@@ -1,0 +1,8 @@
+math = int(input("math: "))
+phyc = int(input("phyc: "))
+english = int(input("english: "))
+kiswahili = int(input("kiswahili: "))
+bio = int(input("bio: "))
+sum = (math + english + phyc + bio + kiswahili)
+print(sum)
+print(sum/5)
